@@ -1,8 +1,5 @@
-# my-music
 
-> my-music
-
-## Build Setup
+## my-music Build Setup
 
 ``` bash
 # install dependencies
