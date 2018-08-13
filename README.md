@@ -1,5 +1,5 @@
 
-## my-music Build Setup
+## my-music webapp
 
 ``` bash
 # install dependencies
